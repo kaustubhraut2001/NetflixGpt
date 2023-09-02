@@ -2,7 +2,7 @@ import React from 'react'
 
 const Brows = () => {
   return (
-	<div>Brows</div>
+brows
   )
 }
 
